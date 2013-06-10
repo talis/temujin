@@ -1,0 +1,10 @@
+{
+  "name": "talis/temujin",
+  "type": "library",
+  "homepage": "http://talis.com",
+  "authors": [{
+    "name": "Talis",
+    "email": "ns@talis.com"
+  }]
+}
+
